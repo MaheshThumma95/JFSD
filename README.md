@@ -1,3 +1,3 @@
 # JFSD
 
-Added Updated code for assignment on 30th-Oct-2022
+Assignment-1 updated on 30th-Oct-2022
